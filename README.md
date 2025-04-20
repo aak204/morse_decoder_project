@@ -21,10 +21,10 @@ morse_decoder_project/
 ├── .gitignore                 # файлы и папки, игнорируемые git
 ├── README.md                  # этот файл
 ├── requirements.txt           # зависимости python
-├── architecture.puml          # исходный код диаграммы архитектуры plantuml
+├── Image_mars.png             # главное изображение
 ├── architecture.png           # изображение диаграммы архитектуры
 │
-├── data/                      # папка для данных (рекомендуется добавить в .gitignore)
+├── data/                      # папка для данных
 │   └── morse_dataset/
 │       └── morse_dataset/   # аудио файлы .opus
 │   ├── train.csv              # обучающие данные (id, message)
@@ -33,7 +33,7 @@ morse_decoder_project/
 │   └── logbook.txt            # журнал колонии с контекстом и подсказками
 │
 ├── notebooks/                 # для jupyter ноутбуков (разведочный анализ, эксперименты)
-│   └── exploratory_analysis.ipynb (пример)
+│   └── Morse.ipynb
 │
 ├── output/                    # для сохраняемых артефактов (модели, графики, сабмиты)
 │   ├── best_model.pth         # пример лучшей модели
