@@ -1,0 +1,10 @@
+torch
+torchaudio
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+python-Levenshtein
+scikit-learn
+librosa
