@@ -189,4 +189,3 @@ python scripts/inference.py --model_path output/best_morse_cnn_se_proj_gru_mha_h
 ## Лицензия
 
 Этот проект распространяется под лицензией mit. см. файл `LICENSE` для подробностей.
-```
