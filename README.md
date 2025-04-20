@@ -26,13 +26,13 @@ morse_decoder_project/
 │
 ├── data/                      # папка для данных
 │   └── morse_dataset/
-│       └── morse_dataset/   # аудио файлы .opus
+│       └── morse_dataset/     # аудио файлы .opus
 │   ├── train.csv              # обучающие данные (id, message)
 │   ├── test.csv               # тестовые данные (id)
 │   └── sample_submission.csv  # пример файла для отправки
 │   └── logbook.txt            # журнал колонии с контекстом и подсказками
 │
-├── notebooks/                 # для jupyter ноутбуков (разведочный анализ, эксперименты)
+├── notebooks/                 
 │   └── Morse.ipynb
 │
 ├── output/                    # для сохраняемых артефактов (модели, графики, сабмиты)
