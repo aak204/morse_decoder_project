@@ -61,7 +61,7 @@ morse_decoder_project/
 
 1.  **Склонируйте репозиторий:**
     ```bash
-    git clone <url-вашего-репозитория>
+    git clone [<url-вашего-репозитория>](https://github.com/aak204/morse_decoder_project.git)
     cd morse_decoder_project
     ```
 2.  **Создайте и активируйте виртуальное окружение** (настоятельно рекомендуется):
